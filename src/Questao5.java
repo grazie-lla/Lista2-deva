@@ -5,7 +5,7 @@ public class Questao5 {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Insira um número inteiro (máximo 20):");
-        long number = input.nextLong();
+        int number = input.nextInt();
 
         if (number == 0 || number == 1){
             System.out.println("1");
@@ -15,7 +15,7 @@ public class Questao5 {
             return;
         }
 
-        long i = 1;
+        int i = 1;
         long result = 1;
 
         while (i <= number) {

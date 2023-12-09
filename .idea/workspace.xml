@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fa94c4e-939d-434f-a54c-d8fe8b1c3998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questao2.java" afterDir="false" />
+    <list default="true" id="8fa94c4e-939d-434f-a54c-d8fe8b1c3998" name="Changes" comment="added new class">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questao4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questao1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questao1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questao3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questao3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +37,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Application.Questao1.executor": "Run",
     "Application.Questao2.executor": "Run",
+    "Application.Questao3.executor": "Run",
+    "Application.Questao4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -49,7 +55,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Questao2">
+  <component name="RunManager" selected="Application.Questao4">
     <configuration name="Questao1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questao1" />
       <module name="Lista2-deva" />
@@ -64,8 +70,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Questao3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questao3" />
+      <module name="Lista2-deva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Questao3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questao3" />
+      <module name="Lista2-deva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Questao4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questao4" />
+      <module name="Lista2-deva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Questao4" />
+        <item itemvalue="Application.Questao3" />
+        <item itemvalue="Application.Questao3" />
         <item itemvalue="Application.Questao2" />
         <item itemvalue="Application.Questao1" />
       </list>
@@ -86,11 +116,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702139398171</updated>
-      <workItem from="1702139400142" duration="2661000" />
+      <workItem from="1702139400142" duration="5612000" />
     </task>
+    <task id="LOCAL-00001" summary="added new class">
+      <option name="closed" value="true" />
+      <created>1702142402767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702142402768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added new class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new class" />
   </component>
 </project>
